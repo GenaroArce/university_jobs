@@ -1,0 +1,10 @@
+listaNumeros = [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+print(len(listaNumeros))
+print(listaNumeros[3])
+print(listaNumeros[:3])
+print(listaNumeros[3:])
+print(listaNumeros[3:6])
+print(listaNumeros[1:8:2])
+print(listaNumeros[-1])
+print(listaNumeros[-6:-2])
+print(listaNumeros[::-1])
